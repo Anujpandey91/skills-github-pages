@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog!
-This is journey to learn GitHub
+title: This is journey to learn GitHub!
 ---
